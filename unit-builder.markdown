@@ -41,6 +41,12 @@ Melee:
 - Precision: 3
 - Pierce: 0
 
+Ranged:
+- Range: 8"
+- Damage: 1
+- Precision: 2
+- Pierce: 0
+
 Special:
 - Stand Fast (can take Hold action for +1 Armor)
 
@@ -88,6 +94,9 @@ Ranged:
 - Damage: 3
 - Precision: 3
 - Pierce: 0
+
+Special:
+- Skirmish (May take Skirmish action in combat to Shoot and then Fight. It must Shoot at a unit it's in combat with)
 
 ### Siege
 
