@@ -152,7 +152,7 @@ Support and command your army.
 - Base cost: 10
 - Unit Size: 1
 - Size of Base: 32mm
-- Armor: 2
+- Armor: 3
 - Movement: 6"
 - Bravery: 8
 - Health: 5
@@ -165,13 +165,76 @@ Melee:
 
 Special:
 - Inspiring (+2 Bravery to within 12")
-- Leadership Skill: Rally (autopass Morale for a unit) OR Hold the Line (+1 Precision for a unit but it can't move) OR 
+- Leadership Skill: Rally (autopass Morale for a unit) OR Hold the Line (+1 Precision for a unit but it can't move)
 
 ### Assassin
 
+Kill enemy characters.
+
+- Base cost: 10
+- Unit Size: 1
+- Size of Base: 32mm
+- Armor: 2
+- Movement: 8"
+- Bravery: 8
+- Health: 5
+
+Melee:
+- Range: 2"
+- Damage: 6
+- Precision: 5
+- Pierce: 2
+
+Special:
+- Bloodthirsty (if an attack HITs but doesn't kill any models, he can immediately attack a second time)
+
 ### Champion
 
+Kill enemy hordes
+
+- Base cost: 10
+- Unit Size: 1
+- Size of Base: 32mm
+- Armor: 3
+- Movement: 6"
+- Bravery: 8
+- Health: 6
+
+Melee:
+- Range: 3"
+- Damage: 4
+- Precision: 4
+- Pierce: 0
+
+Special:
+- Cleave (additional attack for every 10 models in target unit)
+
 ### Spellcaster
+
+Cast spells and be annoying.
+
+- Base cost: 10
+- Unit Size: 1
+- Size of Base: 32mm
+- Armor: 3
+- Movement: 6"
+- Bravery: 8
+- Health: 6
+
+Melee:
+- Range: 1"
+- Damage: 2
+- Precision: 3
+- Pierce: 0
+
+Ranged:
+- Range: 15"
+- Damage: 6
+- Precision: 4
+- Pierce: 1
+
+Special:
+- Wizard (may cast a spell as a Leadership Skill)
 
 # Original Units
 
