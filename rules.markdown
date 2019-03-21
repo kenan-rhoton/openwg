@@ -11,7 +11,9 @@ The first player to act in the Action phase is determined by a roll-off.
 
 ## Units and Models
 
-A unit is a group of models. Whenever you need to find the value of any model's characteristic, if it doesn't have one, please use it's unit's characteristic instead.
+A unit is a group of models.
+Whenever you need to find the value of any model's characteristic, if it doesn't have one, please use it's unit's characteristic instead.
+All models in a unit must be within 1" of each other at all times.
 
 ## Attacks and damage
 
@@ -33,11 +35,11 @@ Players take turns activating units that haven't yet activated.
 They may take the following Actions:
 
 - Move: A unit must not be in combat to Move. To Move a unit, move each of the models a distance up to the model's Move characteristic. 
-- Run: A unit must not be in combat to Run. To Run a unit, take the Move action twice.
-- Charge: A unit must not be in combat to Charge. To Charge a unit, it must move in a straight line into combat. This move may be of up to twice its Move characteristic. It may then immediately Fight.
+- Run: A unit must not be in combat to Run. To Run a unit, take the Move action adding +4".
+- Charge: A unit must not be in combat to Charge. To Charge a unit, it must move into combat. This move may be of up to its Move characteristic +4". It may then immediately Fight.
 - Shoot: Attack with their Ranged Weapons. If the unit is in combat it must Attack a unit it's in combat with. If it isn't, it may Move before or after Shooting.
-- Retreat: A unit must be in combat to Retreat. A unit may not Retreat if it was Charged this turn.. To Retreat a unit, take the Move action twice.
-- Fight: A unit must be in combat to Fight. Attack with that unit's Melee Weapons. You may make an Adjust move of up to 3" with that unit. This move cannot take you out of combat.
+- Retreat: A unit must be in combat to Retreat. A unit may not Retreat if it was Charged this turn. To Retreat a unit, take the Move action twice. It must end outside of combat.
+- Fight: A unit must be in combat to Fight. Attack with that unit's Melee Weapons. You may make an Adjust move of up to 3" with that unit before attacking. This move cannot take you out of combat.
 
 ## Leadership
 

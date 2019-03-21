@@ -23,6 +23,16 @@ Melee:
 Special:
 - Overwhelm (+1 Damage if attacking with more models than defending unit has)
 
+
+Options:
+- Limits:
+	- Minor:
+	- Major:
+- Enhancements:
+	- Minor: Resolute (Bravery 6), Quick Runners (+2" on a Run)
+	- Major: Light Armor (Armor 1), Skilled Fighters (Precision 3)
+	- Capstone: Horde (60 models), Reach (Range 2"), Deadly (Damage 2)
+
 ### Defenders
 
 Hold ground.
